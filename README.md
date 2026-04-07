@@ -1,1 +1,1 @@
-./oplus_build_kernel.sh mt6878 gki
+./oplus_build_kernel.sh sm7435 gki

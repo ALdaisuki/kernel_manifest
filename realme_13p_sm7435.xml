@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="https://github.com/" />
+  <default remote="github" revision="main" sync-j="4" />
+
+  <project path="kernel_platform/common" name="realme-kernel-opensource/realme13pro5G_13proplus5G_P2pro-AndroidU-kernel-source" revision="main" />
+  
+  <project path="kernel_platform/vendor" name="oppo-source/realme13pro5G_13proplus5G_P2pro-AndroidU-vendor-source" revision="main" />
+</manifest>

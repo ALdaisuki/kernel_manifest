@@ -5,5 +5,5 @@
 
   <project path="kernel_platform/common" name="ALdaisuki/realme13pro5G_13proplus5G_P2pro-AndroidU-kernel-source" revision="realme/sm7435_14.0" />
   
-  <project path="kernel_platform/vendor" name="oppo-source/realme13pro5G_13proplus5G_P2pro-AndroidU-vendor-source" revision="main" />
+  <project path="kernel_platform/vendor" name="realme-kernel-opensource/realme13pro5G_13proplus5G_P2pro-AndroidU-vendor-source" revision="main" />
 </manifest>
